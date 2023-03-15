@@ -1,0 +1,4 @@
+# You may put here your top-level configuration options here rather than inside
+# component configuration sub-menus.  All entries here will be included across the 
+# project configuration.  The recommendation is to favor the component configuation
+# Kconfig files first.
